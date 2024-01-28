@@ -3,8 +3,6 @@ My first ML Project
 
 ## Model API
 
-Send a POST request on URL [https://predict-mpg-2.herokuapp.com/](https://predict-mpg-2.herokuapp.com/) with JSON file containing attributes of vehicle whose MPG you need to find <br>
-
 Sample JSON File
 ```
 PARAMS = {
